@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244302198963",
+    "project_id": "vitchatbot-94975",
+    "storage_bucket": "vitchatbot-94975.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244302198963:android:8f3ebb23eef86056b098c6",
+        "android_client_info": {
+          "package_name": "com.example.vitbhopal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBS5y5lJtX320gUQEStzaY-G8LCVWZ_Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
